@@ -20,3 +20,5 @@ Repository: https://github.com/Kazi27/RandomJokeGenerator.git
 Repository: https://github.com/Kazi27/EndlessCats.git
 ### Project 7: Endless Cats 2 
 Repository: https://github.com/Kazi27/EndlessCats2.git
+### Project 8: Meal Master
+Repository: https://github.com/Kazi27/Meal-Master.git
